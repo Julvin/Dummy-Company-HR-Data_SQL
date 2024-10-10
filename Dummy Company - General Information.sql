@@ -71,6 +71,3 @@ select
 from employee
 group by department
 order by avg_age desc;
-
-select *
-from employee
