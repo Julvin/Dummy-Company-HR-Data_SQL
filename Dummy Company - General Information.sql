@@ -28,7 +28,7 @@ order by age;
 
 -- Average Age
 select 
-	min(age) as min_age,
+    min(age) as min_age,
     max(age) as max_age,
     round(avg(age), 2) as avg_age
 from employee;
