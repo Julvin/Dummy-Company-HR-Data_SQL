@@ -14,4 +14,4 @@ Besides general information, i also try drew insights regarding the employee sal
 3. _Extra Analysis_
 Besides general information, i would to also update new column such as introducing their bonus given based on created formula. This section also covers classification by in company years, identifying the tax paid and tax rate for each employee, and pay gap between male and female employee in each department 
 
-### _source: https://www.kaggle.com/datasets/bharatmaheshwarids/5000-employee-dataset-of-an-organization-dummy_
+_source: https://www.kaggle.com/datasets/bharatmaheshwarids/5000-employee-dataset-of-an-organization-dummy_
