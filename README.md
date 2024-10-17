@@ -5,7 +5,7 @@ This is the first ever SQL project i ever done. While this project might not be 
 The objective of this project is to perform various query to draw out data regarding general employee information of the dummy company. This projects utilizes MySQL features such as CTE, Window Funtion, Subqueries and View. 
 
 ## Project Breakdown 
-1. _General Information__
+1. _General Information_
 In this section, I return several general information regarding this company employee such as headcount, headcount by gender, and their average age. This also include the breakdown of general information based on their department
 
 2. _Salary Information_
